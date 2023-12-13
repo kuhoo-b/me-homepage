@@ -1,0 +1,170 @@
+
+*{
+    margin-top: 0px;
+    padding: 0px;
+    background: url('Home.png') no-repeat center center fixed;
+    background-size: cover;
+    box-sizing: border-box;  
+    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='48' height='58' viewport='0 0 100 100' style='fill:black;font-size:29px;'><text y='50%'>❤️</text></svg>") 16 0,auto; /*!emojicursor.app*/   
+}
+
+
+
+
+link{
+  z-index: 7;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+
+.bg{
+    width: 100vh;
+    height: 100vw;
+}
+
+.head1{
+    margin-top: 50vh;
+    font-family: monospace;
+    margin-left: 48vw;
+    /*overflow: hidden; /* Ensures the content is not revealed until the animation */
+   /* border-right: .15em solid rgb(146, 71, 137); /* The typwriter cursor */
+   /* white-space: nowrap; /* Keeps the content on a single line */
+   /* margin: 40px auto; /* Gives that scrolling effect as the typing happens */
+   /* letter-spacing: .2em; /* Adjust as needed */
+    /*animation: 
+      typing 5s steps(30, end),
+      blink-caret .75s step-end infinite;*/
+  }
+  
+  /* The typing effect */
+ /* @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  /* The typewriter cursor effect */
+  /* @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: rgb(255, 0, 238); }*/
+
+
+  .head2{
+    font-family: monospace; 
+    margin-top: 1400px;
+    font-family: monospace;
+    margin-left: 47.5vw;}
+
+
+    .head3{
+        font-family: monospace; 
+        margin-top: 1400px;
+        font-family: monospace;
+        margin-left: 25vw;}
+
+    .search{
+     margin-left: 31vw;
+     margin-top: 50px;
+    }
+
+  .head4{
+    font-family: monospace;
+    margin-top: 50px;
+    margin-left: 29vw;
+    width: 700px;
+
+  }
+
+  .head5{
+    font-family: monospace;
+    margin-top: 1100px;
+    font-size: 50px;
+    margin-left: 18vw;
+    color: rgb(114, 79, 129);
+    
+  }
+
+  .head6{
+    font-family: monospace;
+    margin-top: 20px;
+    font-size: 30px;
+    margin-left: 14.5vw; 
+    width: 1200px;
+    color: rgb(69, 63, 72);
+  }
+
+  h2{
+    font-family: monospace;
+    font-size: 50px;
+    margin-left: 50vw;
+    margin-top: 300px;
+    color: rgb(69, 63, 72);
+  }
+
+  .head7{
+    font-family: monospace;
+    margin-top: 200px;
+    margin-left: 23vw;
+    font-size: 30px;
+    color: rgb(114, 79, 129);
+}
+
+.pol1{
+   margin-top: 100px; 
+   margin-left: 35vw;
+   z-index: 0;
+}
+
+.pol1:hover{
+    transform: scale(1.1);
+}
+
+.pol2{
+  margin-top: 100px; 
+  margin-left: 35vw;
+    z-index: 0;
+ }
+
+ .pol2:hover{
+    transform: scale(1.1);
+ }
+
+ .pol3{
+  margin-top: 100px; 
+  margin-left: 35vw;
+    z-index: 0;
+ }
+
+ .pol3:hover{
+    transform: scale(1.1);
+ }
+
+ .pol4{
+  margin-top: 100px; 
+  margin-left: 35vw;
+    z-index: 0;
+ }
+
+ .pol4:hover{
+    transform: scale(1.1);
+ }
+
+ .pol5{
+  margin-top: 100px; 
+  margin-left: 35vw;
+    z-index: 0;}
+
+ .pol5:hover{
+    transform: scale(1.1);
+ }
+
+
+.head8{
+  font-family: monospace;
+  margin-top: 700px;
+  margin-left: 41vw;
+  font-size: 15px;
+  color: rgb(41, 40, 41);
+  margin-bottom: 400px;
+}
+
